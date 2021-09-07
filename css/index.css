@@ -21,9 +21,9 @@ background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%);
     font-size: 1rem;
     padding-left: 10px;
 }
-thead,tfoot,tr{
+/* thead,tfoot,tr{
     border: lightgray;
-}
+} */
 tbody,td,tfoot,th,thead,tr{
     border: lightgray !important;
 }
