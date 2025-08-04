@@ -1,0 +1,16 @@
+{
+  "name": "week-5-websocket-banking-app",
+  "version": "1.0.0",
+  "description": "Banking application with WebSocket implementation for real-time updates",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "keywords": ["websocket", "banking", "real-time"],
+  "author": "",
+  "license": "MIT"
+}
