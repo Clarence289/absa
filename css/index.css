@@ -27,3 +27,17 @@ background: linear-gradient(to bottom,  #a90329 0%,#8f0222 44%,#6d0019 100%);
 tbody,td,tfoot,th,thead,tr{
     border: lightgray !important;
 }
+
+#connection-status {
+    font-size: 0.8rem;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.btn {
+    margin-right: 5px;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
